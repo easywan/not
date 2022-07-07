@@ -17,7 +17,7 @@ profile_picture:
   I hope that my results would be useful to the research or knowledge of others. 
 </p>
 <p> 
-  Please see my <a href="/assets/pdfs/cv.pdf">CV</a> for further information.
+  Please see my <a href="/mysite/assets/pdfs/cv.pdf">CV</a> for further information.
 </p>
 
 <!---
