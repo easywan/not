@@ -14,12 +14,21 @@ profile_picture:
   It can backfire if they are poorly designed in the first place, or if they are out of harmony with the other elements. 
   Above all, it is not yet clear in which situations each effect is particularly effective. 
   I am interested in designing and authoring of these sensory effects, taking into account the characteristics of human perception in which sensory noises are inevitable to some extent.
-  I hope that my results would be useful to the research or knowledge of others.
+  I hope that my results would be useful to the research or knowledge of others. 
+</p>
+<p> 
+  Please see my <a href="/assets/pdfs/cv.pdf">CV</a> for further information.
 </p>
 
-<hr>
 <p>
-  <a href="/assets/pdfs/cv.pdf">CV</a>
+  E-mail: jiwan.lee@postech.ac.kr </br>
+  Phone: +82-54-279-5661 </br>
+  Office: Room 115, Science Building 4 (<a href="https://www.postech.ac.kr/eng/about-postech/campus-life/campus_map/">M-05</a>)
+</p>
+
+<p>
+  Laboratory: https://interaction.postech.ac.kr </br>
+  Google Scholar: https://scholar.google.com/citations?hl=en&user=g9Mm2uUAAAAJ
 </p>
 
 
