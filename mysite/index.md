@@ -20,11 +20,12 @@ profile_picture:
   Please see my <a href="/assets/pdfs/cv.pdf">CV</a> for further information.
 </p>
 
+<!---
 <p>
   E-mail: jiwan.lee@postech.ac.kr </br>
   Phone: +82-54-279-5661 </br>
   Office: Room 115, Science Building 4 (<a href="https://www.postech.ac.kr/eng/about-postech/campus-life/campus_map/">M-05</a>)
 </p>
-
+-->
 
 
