@@ -14,9 +14,7 @@ profile_picture:
   It can backfire if they are poorly designed in the first place, or if they are out of harmony with the other elements. 
   Above all, it is not yet clear in which situations each effect is particularly effective. 
   I am interested in designing and authoring of these sensory effects, taking into account the characteristics of human perception in which sensory noises are inevitable to some extent.
-</p>
-<p>
-  There are not many of my research results yet; nevertheless, I hope that my results would be useful to the research or knowledge of others.
+  I hope that my results would be useful to the research or knowledge of others.
 </p>
 
 <hr>
