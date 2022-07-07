@@ -26,10 +26,5 @@ profile_picture:
   Office: Room 115, Science Building 4 (<a href="https://www.postech.ac.kr/eng/about-postech/campus-life/campus_map/">M-05</a>)
 </p>
 
-<p>
-  Laboratory: https://interaction.postech.ac.kr </br>
-  Google Scholar: https://scholar.google.com/citations?hl=en&user=g9Mm2uUAAAAJ
-</p>
-
 
 
